@@ -1,5 +1,9 @@
 # 轮滑
 
+轮滑运动有一定的危险性，建议先通过**囚徒健身**中的*六艺*把身体素质提上去，再去尝试。
+
+
+
  - [轮滑运动的益处](https://www.rollerblade.com/the-rollerblade-experience/fitness/benefits-of-inline-skating-2/)
 
 ![](images/benefits-of-inline-skating.webp)
@@ -16,4 +20,9 @@
 
  - [超酷！武汉84岁爷爷穿轮滑鞋环游世界，已经去过90多个国家 | 二更](https://www.youtube.com/watch?v=pEL1CuCSPPw)
 
+一些摔倒的视频
+
+ - [Slams & Fails - inline skate bloopers section from PARTY](https://www.youtube.com/watch?v=DxiS3jIWwOk)
+ - [WASTED Rollerskate fails of 2017](https://www.youtube.com/watch?v=9INdAsU-tHA)
+ - [Roller Skate FAILS 2018!](https://www.youtube.com/watch?v=jYSsBJJiXUs)
 
