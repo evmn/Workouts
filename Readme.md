@@ -18,8 +18,8 @@
  - [跳远](Long-Jump/)
  - [轮滑](Inline-Skates/)
  - [受伤及恢复过程](Injuries-and-Healing/)
-    - [180510：颈后引体导致肩袖受伤](Injuries-and-Healing/20180510-颈后引体@肩袖)
-    - [190828：轮滑高速转弯时侧翻导致右大腿外侧摔伤](Injuries-and-Healing/190828-轮滑@右大腿外侧摔伤)
+    - [180510：颈后引体导致肩袖受伤](Injuries-and-Healing/180510)
+    - [190828：轮滑高速转弯时侧翻导致右大腿外侧摔伤](Injuries-and-Healing/190828)
     - [190903：热身不充分时自由倒立导致手腕三角纤维软骨复合体损伤](Injuries-and-Healing/190903/)
     - [190928：轮滑下长坡时无法控制速度多次摔倒导致皮肤擦伤](Injuries-and-Healing/190928/)
 
