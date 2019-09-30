@@ -14,9 +14,10 @@
         - [引体向上](Convict-Conditioning/囚徒健身/引体向上/)
     - 第三册
         - [后翻](Convict-Conditioning/囚徒爆发力/后翻/)
- - [跑步](Run/Readme.md)
- - [轮滑](Inline-Skates/Readme.md)
- - [受伤及恢复过程](Injuries & Healing)
+ - [跑步](Run/)
+ - [跳远](Long-Jump/)
+ - [轮滑](Inline-Skates/)
+ - [受伤及恢复过程](Injuries-and-Healing/)
 
 ## Reference
 
