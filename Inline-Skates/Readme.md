@@ -4,6 +4,8 @@
 
 轮滑最好配合着其它运动一起练，练前适当热身，练后拉伸一下，并且要不时光脚锻炼下足部肌肉。
 
+我现在累计滑行时长应该超过30小时了，当我滑行超过10公里时，会感觉左腿膝盖有点不适，可能是我运动强度有点大吧，不过一般坐下休息一会儿膝盖就没太大感觉了。
+
  - [轮滑运动的益处](https://www.rollerblade.com/the-rollerblade-experience/fitness/benefits-of-inline-skating-2/)
 
 ![](images/benefits-of-inline-skating.webp)
@@ -30,5 +32,7 @@
 
 
 ## Reference
+
+ - [My Knees Always Hurt, What’s Up?](https://derbyinmotion.wordpress.com/my-knees-are-killing-me/)
  - [Asha’S Advice For Inline Skating Knee Pains](https://skatefresh.com/inline-skating-knee-pains/)
  - [Is roller/inline skating a sport that oftenly leads to knee injuries like running?](https://www.quora.com/Is-roller-inline-skating-a-sport-that-oftenly-leads-to-knee-injuries-like-running)
