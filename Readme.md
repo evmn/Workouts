@@ -37,8 +37,9 @@
 ---
 
  - [职业病](Occupational-Disease/)
-    - [视力健康](Occupational-Disease/Eyes/)
-    - [脱发](Occupational-Disease/Hair/)
+    - [眼睛](Occupational-Disease/Eyes/)
+    - [头发](Occupational-Disease/Hair/)
+    - [腰部](Occupational-Disease/Waist/)
 
 ---
  
