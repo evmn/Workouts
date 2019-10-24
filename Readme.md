@@ -33,7 +33,7 @@
  - [**轮滑**](Inline-Skates/)
  - [跑步](Run/)
  - [跳远](Long-Jump/)
-
+ - [静坐/冥想](Meditation/)
 ---
 
  - [职业病](Occupational-Disease/)
