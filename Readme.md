@@ -22,6 +22,8 @@
 
 ## 目录
 
+ - [饮食](Diet/)
+
  - [囚徒健身](Convict-Conditioning/)
     - [第一册](Convict-Conditioning/book_1/)
         - [俯卧撑](Convict-Conditioning/book_1/push_ups)
