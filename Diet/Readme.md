@@ -14,6 +14,11 @@
 
 ![](images/ghrelin.jpg)
 
+## Books
+
+|Title|Author|Year|
+|:-|:-|:-:|
+|The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally|Jason Fung|2018|
 
 ## Reference
 
@@ -21,5 +26,6 @@
  - [A One-Day Starvation Secret Got the Nobel Prize](https://youtu.be/gl8k2ncIQMc)
  - [A Nobel Prize Diet That Will Help You Look Younger](https://youtu.be/bo2n50O3orY)
  - [Intermittent Fasting & Hunger - What the Science says](https://youtu.be/dFT2IKmwyfg)
+ - [Leptin & Insulin Resistance Balancing Tips w/ Jason Fung, MD](https://youtu.be/jXXGxoNFag4)
  - [一周内减掉5公斤](https://zh.wikihow.com/%E4%B8%80%E5%91%A8%E5%86%85%E5%87%8F%E6%8E%895%E5%85%AC%E6%96%A4)
  - [Spontaneous 24-h ghrelin secretion pattern in fasting subjects: maintenance of a meal-related pattern](Papers/d7e6345d3b32cd147ef7b47e6d0ff5243882.pdf)
