@@ -19,6 +19,7 @@
 |Title|Author|Year|
 |:-|:-|:-:|
 |The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally|Jason Fung|2018|
+|The Case Against Sugar|Gary Taubes|2016|
 
 强烈推荐观看Jason Fung的视频[Leptin & Insulin Resistance Balancing Tips w/ Jason Fung, MD](https://youtu.be/jXXGxoNFag4)。
 
@@ -31,3 +32,4 @@
  - [Leptin & Insulin Resistance Balancing Tips w/ Jason Fung, MD](https://youtu.be/jXXGxoNFag4)
  - [一周内减掉5公斤](https://zh.wikihow.com/%E4%B8%80%E5%91%A8%E5%86%85%E5%87%8F%E6%8E%895%E5%85%AC%E6%96%A4)
  - [Spontaneous 24-h ghrelin secretion pattern in fasting subjects: maintenance of a meal-related pattern](Papers/d7e6345d3b32cd147ef7b47e6d0ff5243882.pdf)
+ - [2015–2020 Dietary Guidelines for Americans](https://health.gov/dietaryguidelines/2015/)
