@@ -20,6 +20,7 @@
 |:-|:-|:-:|
 |The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally|Jason Fung|2018|
 |The Case Against Sugar|Gary Taubes|2016|
+|Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers|David Perlmutter, Kristin Loberg|2013|
 
 强烈推荐观看Jason Fung的视频[Leptin & Insulin Resistance Balancing Tips w/ Jason Fung, MD](https://youtu.be/jXXGxoNFag4)。
 
