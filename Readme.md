@@ -2,19 +2,28 @@
 
 俗话说，健身先健脑。我们看看当年[Bertrand Russell](https://www.goodreads.com/author/quotes/17854.Bertrand_Russell)是怎么说的：
 
-
+ - In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted.
  - Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.
  - The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt.
  - I would never die for my beliefs because I might be wrong.
-
+ - 在所有事务中，时不时地在您早已视为理所当然的事情上打上问号是一件健康的事情。
  - 人生而无知，但是并不愚蠢，是教育使人愚蠢。
- - 乞丐并不会妒忌百万富翁，但是他肯定会妒忌收入更高的乞丐。
  - 不要为自己持独特看法而感到害怕，因为我们现在所接受的常识都曾是独特看法。
  - 不用盲目地崇拜任何权威，因为你总能找到相反的权威。
  - 这个世界的问题在于聪明人充满疑惑，而傻子们坚信不疑。
  - 我绝不会为我的信仰而献身，因为我可能是错的。
 
 ![](images/Dunning-Kruger_effect.jpg)
+
+![](images/metabolic.jpg)
+
+这个视频 [Why do we get fat - Why do we gain weight as we get older](https://youtu.be/STr9ON9-4bU) 告诉我们，中老年人发福的主要原因有三个：
+
+ - 新陈代谢水平持续下降
+ - 运动量不断较少
+ - 饮食不加节制
+
+---
 
 对于经常加班的网友，我建议在保证较为充足睡眠的情况下，再适当锻炼，不要盲目攀比。同时也应该调整自己的饮食方式，早餐和午餐好好吃，晚上少吃点，防止变成肥宅。想要拥有健康的身体，就应该把睡觉放在第一位，饮食放第二位，锻炼放第三位。
 
@@ -71,9 +80,11 @@
     - [190903：热身不充分时自由倒立导致手腕三角纤维软骨复合体损伤](Injuries-and-Healing/190903/)
     - [190928：轮滑下长坡时无法控制速度多次摔倒导致皮肤擦伤](Injuries-and-Healing/190928/)
 
+ 
 ## Reference
 
-
+ - [What You'll Wish You'd Known](http://paulgraham.com/hs.html)
+ - [Why do we get fat - Why do we gain weight as we get older?](https://youtu.be/STr9ON9-4bU)
  - [北京市公安局特警队员体能及身体素质标准](http://www.bjgwy.org/201611/442.html)
  - [The health hazards of sitting](https://www.washingtonpost.com/apps/g/page/national/the-health-hazards-of-sitting/750/)
  

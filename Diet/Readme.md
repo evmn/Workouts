@@ -22,15 +22,18 @@
 |The Case Against Sugar|Gary Taubes|2016|
 |Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers|David Perlmutter, Kristin Loberg|2013|
 
-强烈推荐观看Jason Fung的视频[Leptin & Insulin Resistance Balancing Tips w/ Jason Fung, MD](https://youtu.be/jXXGxoNFag4)。
+## Videos
 
-## Reference
-
+ - [Leptin & Insulin Resistance Balancing Tips w/ Jason Fung, MD](https://youtu.be/jXXGxoNFag4)。
  - [一日飢餓秘密獲得諾貝爾獎](https://youtu.be/gXC6LHkUPnE)
  - [A One-Day Starvation Secret Got the Nobel Prize](https://youtu.be/gl8k2ncIQMc)
  - [A Nobel Prize Diet That Will Help You Look Younger](https://youtu.be/bo2n50O3orY)
  - [Intermittent Fasting & Hunger - What the Science says](https://youtu.be/dFT2IKmwyfg)
  - [Leptin & Insulin Resistance Balancing Tips w/ Jason Fung, MD](https://youtu.be/jXXGxoNFag4)
- - [一周内减掉5公斤](https://zh.wikihow.com/%E4%B8%80%E5%91%A8%E5%86%85%E5%87%8F%E6%8E%895%E5%85%AC%E6%96%A4)
+ - [Longevity & Why I now eat One Meal a Day](https://youtu.be/PKfR6bAXr-c)
+ 
+## Reference
+
+ - [Eating Once a Day: Questions](https://lifeforbusypeople.com/2016/09/06/eating-once-a-day-questions/)
  - [Spontaneous 24-h ghrelin secretion pattern in fasting subjects: maintenance of a meal-related pattern](Papers/d7e6345d3b32cd147ef7b47e6d0ff5243882.pdf)
  - [2015–2020 Dietary Guidelines for Americans](https://health.gov/dietaryguidelines/2015/)
