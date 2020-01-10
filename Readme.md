@@ -3,6 +3,7 @@
 俗话说，健身先健脑。我们看看当年[Bertrand Russell](https://www.goodreads.com/author/quotes/17854.Bertrand_Russell)是怎么说的：
 
  - In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted.
+ - Men are born ignorant, not stupid. They are made stupid by education.
  - Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.
  - The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt.
  - I would never die for my beliefs because I might be wrong.
