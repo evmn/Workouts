@@ -14,6 +14,16 @@
 
 ![](images/ghrelin.jpg)
 
+**Antifragile**一书的第22章*To Live Long, but Not Too Long*中，作者讲了下面一些话：
+
+>I am convinced (an inevitable result of nonlinearity) that we are antifragile to randomness in food delivery and composition—at least over a certain range, or number of days.
+
+>Indeed, the idea of breakfast as a main meal with cereals and other such materials has been progressively shown to be harming humans—I wonder why it took so long before anyone realized that such an unnatural idea needs to be tested; further, the tests show that harm, or, at least, no benefits are derived from breakfast unless one has worked for it beforehand.
+
+作者认为人体并没有那么脆弱，并不需要每天都保持均衡的营养。他还认为早餐前如果没有为此付出一点代价(运动)，那早餐就是有害(至少没啥好处）。
+
+![](images/breakfast.gif)
+
 ## Books
 
 |Title|Author|Year|
@@ -21,6 +31,7 @@
 |The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally|Jason Fung|2018|
 |The Case Against Sugar|Gary Taubes|2016|
 |Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers|David Perlmutter, Kristin Loberg|2013|
+|Antifragile: Things That Gain From Disorder|Nassim Nicholas Taleb|2012|
 
 ## Videos
 
