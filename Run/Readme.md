@@ -12,11 +12,11 @@
 
 ![](images/impact.jpg)
 
-<center><strong>F • t = m • ∆v</strong></center>
+**F • t = m • ∆v**
 
 有很多人认为跑步伤膝盖，其实这是多种原因造成的，根据冲量动量定理，你的体重越大，速度越快，冲击时间越短，地面对你的冲击力也会越大。
 
-<center>![](images/jump-down.gif)</center>
+![](images/jump-down.gif)
 
 从单杠上落地时，动量要比跑步大的多，但是穿平底鞋用前脚掌落地可以极大的延长冲击时间，让冲击力减小到在身体可以承受的范围之内。
 
