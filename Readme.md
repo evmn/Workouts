@@ -95,3 +95,16 @@
  - [The health hazards of sitting](https://www.washingtonpost.com/apps/g/page/national/the-health-hazards-of-sitting/750/)
  
  images文件夹中包含链接中的文件
+
+## Donate
+
+如果这个项目对你帮助非常大，让你变得更加健康快乐，可以考虑捐赠此项目。此项目目前只设立比特币收款，因为我认为到现在还不愿意花时间去了解比特币的人，大概率也不会从此项目学到太多东西。
+
+
+“Before you invest in something, invest the time to understand it.”
+
+<p align="right">— Robert T. Kiyosaki<p>
+
+
+Bitcoin: [bc1qqwf7dtvu8ry6ts53jdlnra9292gsk9jrha4qrk](https://www.blockchain.com/btc/address/bc1qqwf7dtvu8ry6ts53jdlnra9292gsk9jrha4qrk)
+
