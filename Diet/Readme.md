@@ -20,7 +20,7 @@
 
 >Indeed, the idea of breakfast as a main meal with cereals and other such materials has been progressively shown to be harming humans—I wonder why it took so long before anyone realized that such an unnatural idea needs to be tested; further, the tests show that harm, or, at least, no benefits are derived from breakfast unless one has worked for it beforehand.
 
-作者认为人体并没有那么脆弱，并不需要每天都保持均衡的营养。他还认为早餐前如果没有为此付出一点代价(运动)，那早餐就是有害(至少没啥好处）。
+作者认为人体并没有那么脆弱，并不需要每天都保持均衡的营养。他还认为早餐前如果没有为此付出一点代价(运动)，那早餐就是有害的(至少没啥好处）。
 
 ![](images/breakfast.gif)
 
