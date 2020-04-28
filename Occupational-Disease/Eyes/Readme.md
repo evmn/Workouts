@@ -5,10 +5,22 @@
 >晚上吃过饭，走出酒店看看，周围什么都没有，全都是黑的。一抬头就能看到整个银河系。我拿了个电筒回到自己房间，走廊上也都是黑的，没有灯。当时我手里拿着一根笔，不小心掉在了地上，举着电筒找了半天没找到，忽然后面有个人碰我，说，嘿，你的笔。我转头看，开始都没看见人，瓦努阿图全都是黑人。过了一下才看出那是个酒店的服务员，跟着我就更惊了，走廊那么黑，他怎么看得见我掉的笔啊？后来才知道，他们所有人的眼睛都比我们好很多倍。在那样的环境里面生活久了，他们每个人都练就了在黑暗里看东西的本事。
 >整个剧组在那里拍了10天，我从没见到一个人戴近视眼镜。
 
-我认为人体进化的速度远远落后于现代社会发展的速度，我们现在长时间受到人造光源的影响，视力有可能会越来越糟糕。我建议晚上尽可能远离电子产品，避免开强光，睡前一小时提前关灯。我不确定这对眼睛有多大的好处，这需要长期实验。
+视频 [10 Great Exercises to Improve Your Eyesight](https://www.youtube.com/watch?v=QQ3ki1dCcnw) 总结道：
+
+- Blinking is an excellent way to relax your eyes. It has three functions: it helps to grease your eyes, clean them, and give them a break from light. 
+- The most important sense organs are your eyes. Also, it’s one of the most complex sensory organs in your body. Poor vision limits you in many ways; therefore, find 10 minutes every day to perform these exercises. 
+- **Darkness is believed to help strengthen the photoreceptor cells in your eyes, which in turn can contribute to a clear vision.**
+- These exercises improve all aspects of your visual perception. It is suitable for both nearsightedness and farsightedness.
+- This workout helps to relax your eye muscles and increases blood circulation in your eyes.
+
+
+生物体自愈能力很强，但是我们很少给眼睛足够的恢复时间，因而我们的视力大都不会好转。我建议晚上尽可能远离电子产品，避免开强光，睡前一小时提前关灯。我不确定这对眼睛有多大的好处，这需要长期实验。
 
 国外一篇论文也提到，孩子们睡觉不关灯可能会影响视力。
+
+
 
 # Reference
 
  - [Children who sleep with light on may damage their sight](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1115762/)
+ - [10 Great Exercises to Improve Your Eyesight](https://www.youtube.com/watch?v=QQ3ki1dCcnw)
