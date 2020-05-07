@@ -19,8 +19,13 @@
 国外一篇论文也提到，孩子们睡觉不关灯可能会影响视力。
 
 
+百度贴吧*扁皮吧*，有人通过玩弹弓让视力变得更好了!单纯的远眺可能会比较无聊，可以尝试每天玩会儿弹弓。
+
+![](images/slingshot.jpg)
 
 # Reference
 
  - [Children who sleep with light on may damage their sight](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1115762/)
  - [10 Great Exercises to Improve Your Eyesight](https://www.youtube.com/watch?v=QQ3ki1dCcnw)
+ - [世界上视力最好的人，马赛人(能看到10公里外动物)](http://www.qv67.com/jinisi/9546.html)
+ - [挑战不可能(第一季): 马赛人首登长城挑战视力](https://www.youtube.com/watch?v=gmheyN55jJo)
