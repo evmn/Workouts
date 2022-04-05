@@ -83,6 +83,7 @@
     - [2020-05-22: 不明原因胸痛](Injuries-and-Healing/200522/)
 	- [2020-11-12: 低血糖](Injuries-and-Healing/201112/)
 	- [2021-02-28: “病入膏肓”可能是颈椎病](Injuries-and-Healing/210228/)
+	- [2021-06-06: 吃冰西瓜后，食物中毒](Injuries-and-Healing/210606/)
 
 ## 让运动变得更加有趣
 
